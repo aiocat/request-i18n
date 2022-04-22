@@ -1,0 +1,55 @@
+{
+    "saves": {
+      "input": "フィルタ名またはメソッド",
+      "filter_button": "フィルター",
+      "load_button": "負荷",
+      "copy_button": "URLをコピー",
+      "remove_button": "デリート"
+    },
+    "request": {
+      "send_button": "送信",
+      "save_button": "保存する",
+      "body": {
+        "name": "体",
+        "text": "編集モード"
+      },
+      "query_parameters": {
+        "name": "クエリパラメータ",
+        "text": "クエリパラメータの管理",
+        "add_button": "パラメータを追加",
+        "key_input": "鍵",
+        "value_input": "価値",
+        "remove_button": "デリート"
+      },
+      "headers": {
+        "name": "ヘッダー",
+        "text": "ヘッダーの編集",
+        "add_button": "ヘッダーを追加",
+        "key_input": "鍵",
+        "value_input": "価値",
+        "remove_button": "デリート"
+      }
+    },
+    "response": {
+      "body": {
+        "name": "体",
+        "status_text": "状態",
+        "size_text": "サイズ",
+        "time_text": "時間",
+        "copy_button": "コピー",
+        "clear_button": "消す"
+      },
+      "headers": {
+        "name": "ヘッダー",
+        "copy_button": "コピー"
+      }
+    },
+    "code_generator": {
+      "select_text": "言語を選択する",
+      "copy_button": "コードをコピーする"
+    },
+    "settings": {
+      "change_language": "言語を変えてください"
+    }
+  }
+  
