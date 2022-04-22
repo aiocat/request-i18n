@@ -1,0 +1,51 @@
+{
+    "saves": {
+        "input": "İsim veya Method Filtrele",
+        "filter_button": "Filtrele",
+        "load_button": "Yükle",
+        "copy_button": "Bağlantıyı Kopyala",
+        "remove_button": "Sil"
+    },
+    "request": {
+        "send_button": "Gönder",
+        "save_button": "Kaydet",
+        "body": {
+            "name": "Vücut",
+            "text": "Türü Düzenle"
+        },
+        "query_parameters": {
+            "name": "Sorgu Parametreleri",
+            "text": "Sorgu Parametrelerini Yönet",
+            "add_query": "Parametre Ekle",
+            "key_input": "Anahtar",
+            "value_input": "Değer",
+            "remove_button": "Sil"
+        },
+        "headers": {
+            "name": "Başlıklar",
+            "text": "Başlıkları Yönet",
+            "add_query": "Başlık Ekle",
+            "key_input": "Anahtar",
+            "value_input": "Değer",
+            "remove_button": "Sil"
+        }
+    },
+    "response": {
+        "body": {
+            "name": "Vücut",
+            "status_text": "Durum",
+            "size_text": "Boyut",
+            "time_text": "Zaman",
+            "copy_button": "Kopyala",
+            "clear_button": "Temizle"
+        },
+        "headers": {
+            "name": "Başlıklar",
+            "copy_button": "Kopyala"
+        }
+    },
+    "code_generator": {
+        "select_text": "Dil Seç",
+        "copy_button":"Kodu Kopyala"
+    }
+}
