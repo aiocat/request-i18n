@@ -47,5 +47,8 @@
     "code_generator": {
         "select_text": "Dil Seç",
         "copy_button":"Kodu Kopyala"
+    },
+    "settings": {
+        "change_language": "Dil Değiştir"
     }
 }

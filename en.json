@@ -47,5 +47,8 @@
     "code_generator": {
         "select_text": "Select Language",
         "copy_button":"Copy Code"
+    },
+    "settings": {
+        "change_language": "Change Language"
     }
 }
