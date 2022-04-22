@@ -16,7 +16,7 @@
         "query_parameters": {
             "name": "Query Parameters",
             "text": "Manage Query Parameters",
-            "add_query": "Add Parameter",
+            "add_button": "Add Parameter",
             "key_input": "Key",
             "value_input": "Value",
             "remove_button": "Remove"
@@ -24,7 +24,7 @@
         "headers": {
             "name": "Headers",
             "text": "Manage Headers",
-            "add_query": "Add Header",
+            "add_button": "Add Header",
             "key_input": "Key",
             "value_input": "Value",
             "remove_button": "Remove"

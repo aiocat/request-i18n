@@ -16,7 +16,7 @@
         "query_parameters": {
             "name": "Sorgu Parametreleri",
             "text": "Sorgu Parametrelerini Yönet",
-            "add_query": "Parametre Ekle",
+            "add_button": "Parametre Ekle",
             "key_input": "Anahtar",
             "value_input": "Değer",
             "remove_button": "Sil"
@@ -24,7 +24,7 @@
         "headers": {
             "name": "Başlıklar",
             "text": "Başlıkları Yönet",
-            "add_query": "Başlık Ekle",
+            "add_button": "Başlık Ekle",
             "key_input": "Anahtar",
             "value_input": "Değer",
             "remove_button": "Sil"
