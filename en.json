@@ -1,0 +1,51 @@
+{
+    "saves": {
+        "input": "Filter Name or Methods",
+        "filter_button": "Filter",
+        "load_button": "Load",
+        "copy_button": "Copy Url",
+        "remove_button": "Remove"
+    },
+    "request": {
+        "send_button": "Send",
+        "save_button": "Save",
+        "body": {
+            "name": "Body",
+            "text": "Edit Mode"
+        },
+        "query_parameters": {
+            "name": "Query Parameters",
+            "text": "Manage Query Parameters",
+            "add_query": "Add Parameter",
+            "key_input": "Key",
+            "value_input": "Value",
+            "remove_button": "Remove"
+        },
+        "headers": {
+            "name": "Headers",
+            "text": "Manage Headers",
+            "add_query": "Add Header",
+            "key_input": "Key",
+            "value_input": "Value",
+            "remove_button": "Remove"
+        }
+    },
+    "response": {
+        "body": {
+            "name": "Body",
+            "status_text": "Status",
+            "size_text": "Size",
+            "time_text": "Time",
+            "copy_button": "Copy",
+            "clear_button": "Clear"
+        },
+        "headers": {
+            "name": "Headers",
+            "copy_button": "Copy"
+        }
+    },
+    "code_generator": {
+        "select_text": "Select Language",
+        "copy_button":"Copy Code"
+    }
+}
