@@ -1,0 +1,54 @@
+{
+  "saves": {
+    "input": "Имя или методы фильтра",
+    "filter_button": "Фильтр",
+    "load_button": "Нагрузка",
+    "copy_button": "Копировать ссылку",
+    "remove_button": "Удалять"
+  },
+  "request": {
+    "send_button": "Отправлять",
+    "save_button": "Отправить",
+    "body": {
+      "name": "Тело",
+      "text": "Сменить режим"
+    },
+    "query_parameters": {
+      "name": "Параметры запроса",
+      "text": "Изменить параметры запроса",
+      "add_button": "Добавить параметр",
+      "key_input": "Ключ",
+      "value_input": "Ценность",
+      "remove_button": "Удалять"
+    },
+    "headers": {
+      "name": "Заголовки",
+      "text": "Изменить заголовки",
+      "add_button": "Добавить заголовок",
+      "key_input": "Ключ",
+      "value_input": "Ценность",
+      "remove_button": "Удалять"
+    }
+  },
+  "response": {
+    "body": {
+      "name": "Тело",
+      "status_text": "Статус",
+      "size_text": "Размер",
+      "time_text": "Время",
+      "copy_button": "Копировать",
+      "clear_button": "Четкий"
+    },
+    "headers": {
+      "name": "Заголовки",
+      "copy_button": "Копировать"
+    }
+  },
+  "code_generator": {
+    "select_text": "Выберите язык",
+    "copy_button": "Копировать Код"
+  },
+  "settings": {
+    "change_language": "Сменить язык"
+  }
+}
