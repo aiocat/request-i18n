@@ -1,0 +1,54 @@
+{
+  "saves": {
+    "input": "Nom du filtre ou méthodes",
+    "filter_button": "Filtre",
+    "load_button": "Charger",
+    "copy_button": "Copier l'URL",
+    "remove_button": "Supprimer"
+  },
+  "request": {
+    "send_button": "Envoyer",
+    "save_button": "Enregistrer",
+    "body": {
+      "name": "Corps",
+      "text": "Mode édition"
+    },
+    "query_parameters": {
+      "name": "Paramètres de requête",
+      "text": "Gérer les paramètres de requête",
+      "add_button": "Ajouter un paramètre",
+      "key_input": "Clé",
+      "value_input": "Valeur",
+      "remove_button": "Supprimer"
+    },
+    "headers": {
+      "name": "En-têtes",
+      "text": "Gérer les en-têtes",
+      "add_button": "Ajouter un en-tête",
+      "key_input": "Clé",
+      "value_input": "Valeur",
+      "remove_button": "Supprimer"
+    }
+  },
+  "response": {
+    "body": {
+      "name": "Corps",
+      "status_text": "Statut",
+      "size_text": "Taille",
+      "time_text": "Heure",
+      "copy_button": "Copier",
+      "clear_button": "Effacer"
+    },
+    "headers": {
+      "name": "En-têtes",
+      "copy_button": "Copier"
+    }
+  },
+  "code_generator": {
+    "select_text": "Sélectionner la langue",
+    "copy_button": "Copier le code"
+  },
+  "settings": {
+    "change_language": "Changer la langue"
+  }
+}
