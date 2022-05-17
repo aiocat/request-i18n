@@ -4,7 +4,12 @@
     "filter_button": "Filtrele",
     "load_button": "Yükle",
     "copy_button": "Bağlantıyı Kopyala",
-    "remove_button": "Sil"
+    "remove_button": "Sil",
+    "folders": {
+      "title": "Klasörler",
+      "input": "Yeni Klasör oluştur",
+      "text": "ya da bir klasör seç."
+    }
   },
   "request": {
     "send_button": "Gönder",

@@ -4,7 +4,12 @@
     "filter_button": "Filtre",
     "load_button": "Charger",
     "copy_button": "Copier l'URL",
-    "remove_button": "Supprimer"
+    "remove_button": "Supprimer",
+    "folders": {
+      "title": "Dossier",
+      "input": "Créer un nouveau dossier",
+      "text": "ou sélectionnez un dossier."
+    }
   },
   "request": {
     "send_button": "Envoyer",

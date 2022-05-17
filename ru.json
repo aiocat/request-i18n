@@ -4,7 +4,12 @@
     "filter_button": "Фильтр",
     "load_button": "Нагрузка",
     "copy_button": "Копировать ссылку",
-    "remove_button": "Удалять"
+    "remove_button": "Удалять",
+    "folders": {
+      "title": "Папки",
+      "input": "Создать новую папку",
+      "text": "или выберите папку."
+    }
   },
   "request": {
     "send_button": "Отправлять",

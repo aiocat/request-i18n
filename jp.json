@@ -4,7 +4,12 @@
     "filter_button": "フィルター",
     "load_button": "負荷",
     "copy_button": "リンクのコピー",
-    "remove_button": "デリート"
+    "remove_button": "デリート",
+    "folders": {
+      "title": "フォルダ",
+      "input": "新しいフォルダを作成する",
+      "text": "またはフォルダを選択します。"
+    }
   },
   "request": {
     "send_button": "送信",
