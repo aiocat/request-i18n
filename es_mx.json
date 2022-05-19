@@ -1,0 +1,59 @@
+{
+    "saves": {
+        "input": "Buscar Nombre o Metodo",
+        "filter_button": "Buscar",
+        "load_button": "Cargar",
+        "copy_button": "Copiar URL",
+        "remove_button": "Eliminar",
+        "folders": {
+            "title": "Carpetas",
+            "input": "Crear Carpeta",
+            "text": "O Selecciona Una Carpeta."
+        }
+    },
+    "request": {
+        "send_button": "Enviar",
+        "save_button": "Guardar",
+        "body": {
+            "name": "Cuerpo",
+            "text": "Modo Editar"
+        },
+        "query_parameters": {
+            "name": "Parametros del Query",
+            "text": "Administrar parametros del Query",
+            "add_button": "Agregar Parametro",
+            "key_input": "LLave",
+            "value_input": "Valor",
+            "remove_button": "Eliminar"
+        },
+        "headers": {
+            "name": "Encabezados",
+            "text": "Administrar Encabezados",
+            "add_button": "Agregar Encabezado",
+            "key_input": "LLave",
+            "value_input": "Valor",
+            "remove_button": "Eliminar"
+        }
+    },
+    "response": {
+        "body": {
+            "name": "Cuerpo",
+            "status_text": "Estatus",
+            "size_text": "Tamaño",
+            "time_text": "Tiempo",
+            "copy_button": "Copiar",
+            "clear_button": "Limpiar"
+        },
+        "headers": {
+            "name": "Encabezados",
+            "copy_button": "Copiar"
+        }
+    },
+    "code_generator": {
+        "select_text": "Selecciona Un Lenguaje",
+        "copy_button": "Copiar Codigo"
+    },
+    "settings": {
+        "change_language": "Cambiar Idioma"
+    }
+}
